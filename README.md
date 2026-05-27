@@ -122,7 +122,7 @@ Focus      :: Performance + automation
 
 ### “Building infrastructure-focused software, AI systems, and developer tooling.”
 
-<img src="https://raw.githubusercontent.com/init0-lux/readme/snake-output/snake.svg" />
+<img src="https://raw.githubusercontent.com/init0-lux/init0-lux/snake-output/snake.svg" />
 
 </div>
 
