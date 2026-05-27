@@ -65,9 +65,6 @@ const ojaswi = {
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
 
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=react" />
 <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
 
 ### Backend & Infra
@@ -82,39 +79,16 @@ const ojaswi = {
 
 ---
 # 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=init0-lux&theme=dark&hide_border=false&stroke=00FFC8&ring=00FFC8&fire=00FFC8&currStreakLabel=00FFC8" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=init0-lux&theme=github_dark" />
-</div>
-
----
-
-# Current Interests
-
-* AI infrastructure
-* Multi-agent systems
-* Developer experience tooling
-* Blockchain protocols
-* Nix & reproducible systems
-* Real-time data processing
-* LLM-integrated applications
-
----
-
-# Architecture & Tooling
-
-```txt
-OS         :: NixOS / Linux
-Editor     :: VSCode + Neovim
-Terminal   :: Kitty
-Shell      :: Zsh
-Languages  :: Go / Rust / TypeScript
-Infra      :: Docker / Nix Flakes
-Focus      :: Performance + automation
-```
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=init0-lux&theme=dark&hide_border=false&stroke=00FFC8&ring=00FFC8&fire=00FFC8&currStreakLabel=00FFC8" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=init0-lux&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -125,5 +99,6 @@ Focus      :: Performance + automation
 <img src="https://raw.githubusercontent.com/init0-lux/init0-lux/snake-output/snake.svg" />
 
 </div>
+
 
 
