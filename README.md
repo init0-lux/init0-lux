@@ -2,9 +2,9 @@
 <div align="center">
 
 # Ojaswi Om  
-### Systems • AI • Blockchain • Infrastructure
+### Systems • AI • Web3 • Infrastructure
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Full-stack+developer;Blockchain+%26+DeFi+builder;NixOS+%2F+Linux+power+user;Go+%2B+Rust+systems+programmer;AI+tooling+%26+developer+infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FFC8&center=true&vCenter=true&width=700&lines=Full-stack+dev;Blockchain+%26+DeFi+builder;NixOS+Enthusiast;Go+%2B+Rust+systems+programmer;CLI+tooling;" />
 
 <br/>
 
@@ -21,36 +21,6 @@
 </a>
 </div>
 
----
-
-##  About Me
-
-```ts
-const ojaswi = {
-  location: "India",
-  focuses: [
-    "AI systems",
-    "Developer tooling",
-    "Blockchain infrastructure",
-    "Distributed systems",
-    "Mobile applications"
-  ],
-
-  currentlyBuilding: [
-    "AI-powered infra tooling",
-    "Blockchain developer SDKs",
-    "Real-time incident intelligence systems",
-    "Contact intelligence platforms"
-  ],
-
-  philosophy: [
-    "Infrastructure first",
-    "Automation over repetition",
-    "Minimalism with performance",
-    "FOSS + hacker culture"
-  ]
-}
-```
 ---
 
 # Tech Stack
@@ -93,8 +63,6 @@ const ojaswi = {
 ---
 
 <div align="center">
-
-### “Building infrastructure-focused software, AI systems, and developer tooling.”
 
 <img src="https://raw.githubusercontent.com/init0-lux/init0-lux/snake-output/snake.svg" />
 
